@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0046/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5e0046/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 自然集
+  date: '2015-08-29 02:09:12.743814'
+  source:
+    repository: kanripo
+    path: KR5e0046
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0046_000-YP-C.yaml, hash: 'sha256:126c936b250294d553b7b1897fee48f6f74888f439f06e9cd5b591207bb39a3a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0046_000-YP-C.markers.yaml, hash: 'sha256:0fbd5533f1bb372912ca6b0bf753b9622525f2824313341870d77b73f61cafa6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0046_YP-C_18maoji-07-0035a
+    span:
+    - body
+    - 0
+    - 2776
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:007624285df0f344b54e5a9eed53efed466ad9462df5945c1f38b59546de5606

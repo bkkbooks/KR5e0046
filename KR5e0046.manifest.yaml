@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR5e0046/v1
+canonical_location: https://kanripo.org/bkk/KR5e0046/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 自然集
+  identifiers:
+    alt_id:
+    - DZ1144
+    - JY223
+  date: '2015-08-29 02:09:12.743814'
+  source:
+    repository: kanripo
+    path: KR5e0046
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: CK-KZ
+  label: 【重刊道藏輯要】
+- short: CK-KZ-jye
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: YP-C
+  label: 【原版道藏輯要】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0046_000.yaml, hash: 'sha256:e520c070a5bcdac82407db9ef422c80e9d7bbfcce410aac3137f1a027f03bbae'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0046_000.markers.yaml, hash: 'sha256:d5ec070552249837ba1c9a68258d991111e4d71623898b269f8fc87832515812'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0046_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2772
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:1ff9d1356e49eb9a21f0d9349a59ff004448c5355113737046e8aefc47f6476a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,459 @@
+canonical_identifier: bkk:krp/KR5e0046/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5e0046/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 自然集
+  date: '2015-08-29 02:09:12.743814'
+  source:
+    repository: kanripo
+    path: KR5e0046
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0046_000-CK-KZ-jye.yaml, hash: 'sha256:90371cde015b4c955e6593699bff62388704e0f9b58fbed230a94c90a162ff5d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0046_000-CK-KZ-jye.markers.yaml, hash: 'sha256:50e9673ec24989cae45e58eaaccab9b25711fd1170f19304de17e6f814c36773'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 道詞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 0
+    - 27
+  label: 點絳唇
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 27
+    - 106
+  label: 混江龍
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 106
+    - 159
+  label: 油葫蘆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h6
+    span:
+    - body
+    - 159
+    - 191
+  label: 天下樂
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h7
+    span:
+    - body
+    - 191
+    - 242
+  label: 後庭花¶<md:KR5e0046_HFL_000-002a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h8
+    span:
+    - body
+    - 242
+    - 274
+  label: 柳葉兒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h9
+    span:
+    - body
+    - 274
+    - 323
+  label: 金盞兒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h10
+    span:
+    - body
+    - 323
+    - 390
+  label: 賞花時
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h11
+    span:
+    - body
+    - 390
+    - 456
+  label: 煞尾
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h12
+    span:
+    - body
+    - 456
+    - 514
+  label: 一枝花
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h13
+    span:
+    - body
+    - 514
+    - 639
+  label: 梁州
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h14
+    span:
+    - body
+    - 639
+    - 765
+  label: 告皇天
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h15
+    span:
+    - body
+    - 765
+    - 811
+  label: 烏夜啼
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h16
+    span:
+    - body
+    - 811
+    - 937
+  label: 煞尾
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h17
+    span:
+    - body
+    - 937
+    - 982
+  label: 新水令
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h18
+    span:
+    - body
+    - 982
+    - 1038
+  label: 駐馬聽
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h19
+    span:
+    - body
+    - 1038
+    - 1075
+  label: 步步嬌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h20
+    span:
+    - body
+    - 1075
+    - 1127
+  label: 沉醉東風¶<md:KR5e0046_HFL_000-005b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h21
+    span:
+    - body
+    - 1127
+    - 1209
+  label: 雁兒落過得勝令
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h22
+    span:
+    - body
+    - 1209
+    - 1279
+  label: 沽美酒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h23
+    span:
+    - body
+    - 1279
+    - 1317
+  label: 川撥棹
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h24
+    span:
+    - body
+    - 1317
+    - 1372
+  label: 殿前歡
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h25
+    span:
+    - body
+    - 1372
+    - 1418
+  label: 歇指調
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h26
+    span:
+    - body
+    - 1418
+    - 1489
+  label: 滚繡毬¶<md:KR5e0046_HFL_000-007a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h27
+    span:
+    - body
+    - 1489
+    - 1518
+  label: 倘秀才
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h28
+    span:
+    - body
+    - 1518
+    - 1550
+  label: 端正好
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h29
+    span:
+    - body
+    - 1550
+    - 1585
+  label: 迎仙客
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h30
+    span:
+    - body
+    - 1585
+    - 1624
+  label: 紅繡鞋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h31
+    span:
+    - body
+    - 1624
+    - 1691
+  label: 鮑老兒¶<md:KR5e0046_HFL_000-008a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h32
+    span:
+    - body
+    - 1691
+    - 1750
+  label: 耍孩兒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h33
+    span:
+    - body
+    - 1750
+    - 1804
+  label: 一煞¶<md:KR5e0046_HFL_000-008b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h34
+    span:
+    - body
+    - 1804
+    - 1863
+  label: 二煞
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h35
+    span:
+    - body
+    - 1863
+    - 1917
+  label: 三煞¶<md:KR5e0046_HFL_000-009a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h36
+    span:
+    - body
+    - 1917
+    - 1943
+  label: 煞尾
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h37
+    span:
+    - body
+    - 1943
+    - 2066
+  label: 正宫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h38
+    span:
+    - body
+    - 2066
+    - 2124
+  label: 倘秀才
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h39
+    span:
+    - body
+    - 2124
+    - 2218
+  label: 滚繡毬
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h40
+    span:
+    - body
+    - 2218
+    - 2268
+  label: 倘秀才
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h41
+    span:
+    - body
+    - 2268
+    - 2353
+  label: 衮繡毬
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h42
+    span:
+    - body
+    - 2353
+    - 2416
+  label: 呆骨朵
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h43
+    span:
+    - body
+    - 2416
+    - 2528
+  label: 醉太平
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0046_CK-KZ-jye_000-h44
+    span:
+    - body
+    - 2528
+    - 2644
+  label: 又正宫
+  type: section
+  level: 3
+hash: sha256:b3fb1465d6169dd267674c54f0dd30d8e3cf3a997890d490425283bb73d58080

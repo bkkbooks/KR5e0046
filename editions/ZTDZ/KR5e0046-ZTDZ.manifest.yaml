@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0046/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5e0046/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 自然集
+  date: '2015-08-29 02:09:12.743814'
+  source:
+    repository: kanripo
+    path: KR5e0046
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0046_000-ZTDZ.yaml, hash: 'sha256:5152f46d3f1e9f127629529de444262630b794e937d800fe4a0ca210d9a5b5da'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0046_000-ZTDZ.markers.yaml, hash: 'sha256:9b7619792658c1f3817723fe652cecf8613f67497fb4618c48c88982c7467e7a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0046_SJB_000-250494a
+    span:
+    - body
+    - 0
+    - 2772
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:0a04c530e6d7fa189eb9667cc46a28c0934d093268db1c3ab216c54f90dc0f0d
